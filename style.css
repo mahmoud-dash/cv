@@ -1,0 +1,244 @@
+body{
+	
+
+
+font-size: 20px;
+font-size: 20px;
+margin: 0px 0px 0px 0px;
+background-color:  rgba(52, 73, 94,.3);
+font-family: sans-serif; 
+
+
+
+}
+
+#h1111{
+	font-family: 'Parisienne', cursive;
+	color: #1B2631 ;
+}
+
+.th{
+	font-family: font-family: 'Raleway', sans-serif;
+	font-weight: 520;
+}
+
+
+
+
+
+
+	
+	
+
+	
+
+
+
+
+      
+
+       .css{
+    	margin-left: auto;
+    	margin-right: auto;
+    	max-width: 600px;
+    	width: 80%;
+
+
+    }
+    	
+
+
+
+   .me{ margin-left: 10%;
+	}
+
+	.a{
+		display: inline-block;
+		
+		margin-left: 15%;
+		
+	}
+
+	.pic{ transition: width 4s,transform 2s;
+		 
+	}
+	.pic:hover{width: 300px;
+		transform: rotate(360deg);}
+
+		.idh{
+			position: relative;
+			height: 80px;
+		}
+
+		#h{
+			font-family: 'Raleway', sans-serif;
+			position: absolute;
+			left: 50%;
+			margin-left: -113.75px;
+			margin-top: 50px;
+		}
+		
+
+			
+
+			
+			
+
+
+
+
+	
+ 
+	
+	
+	
+
+ 
+    
+
+
+hr{
+	border-style: dotted;
+	
+border-width:5px 0px 0px;
+width: 5%;
+
+
+	
+	
+	
+	border-color:#F2F3F4  ;
+margin-bottom: 0px;}
+
+
+
+
+
+
+
+.ulveh2{
+	position: relative;
+	height: 250px;
+}
+
+
+
+ul{
+	list-style: none;
+	position: absolute;
+	top: 100px;
+	padding: 0;
+	left: 50%;
+	margin-left: -174.5px;
+}
+
+img{
+	width: 200px;
+}
+
+
+a{
+	text-decoration-line: none;
+}
+  
+
+a:link{
+	color:#4271AA;
+
+}
+a:visited{
+	color:#C157C5;
+}
+a:hover{
+	color:#A6CE4F;
+}
+a:active{
+	color:#CE514F;
+}
+
+      .red{
+
+      }
+
+	.div2h2{
+		font-family: 'Raleway', sans-serif;
+		text-align: center;
+		margin:60px 0 50px 0;
+
+	} 
+	 .me{ margin-left: auto;
+	 	margin-right: auto;
+	 	margin-bottom: 30px;
+	}
+                                        
+	
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+
+	
+
+	.hii{
+		display: inline-block;
+		position: absolute;
+		left: 50%;
+
+		margin-left: -125px;
+		width: 250px;
+		padding: 0;
+		text-align: center;
+	}
+
+	.h22{font-family: 'Raleway', sans-serif;
+		text-align: center;
+		margin-top: 60px;
+
+
+	}
+.myButton {
+	background:linear-gradient(to bottom, #fa4c46 5%, #b89d86 100%);
+	background-color:#fa4c46;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:Times New Roman;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 47px;
+	text-decoration:none;
+
+	position: absolute;
+	left: 20%;
+	margin-top: 50px;
+
+
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #b89d86 5%, #fa4c46 100%);
+	background-color:#b89d86;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.boot{
+	height: 200px;
+	position: relative;
+}
+
+
+
+		
+		
+
+		
+		
+	
+	
+	
+	
+
+	
+	
+
